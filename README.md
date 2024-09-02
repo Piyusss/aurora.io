@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# 🌟 **Aurora.io** 🌟
 
-First, run the development server:
+Welcome to **Aurora.io**, your one-stop solution for building and managing powerful, feature-rich online communities. With an array of custom features and a stunning user interface, our app is designed to take your community management to the next level.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 **Features**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 💰 **Custom Stripe Component**
+- A sleek and animated single-line Stripe integration that simplifies payments like never before.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🏆 **Optimized Onboarding**
+- Custom onboarding designed to enhance user experience and boost conversion rates.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### 🧑🏻‍💼 **Multi-Vendor Support**
+- Seamlessly manage multiple vendors with our robust support system.
 
-## Learn More
+### ✍🏻 **Custom Clerk Authentication**
+- Secure and user-friendly sign-in and sign-out process with Clerk integration.
 
-To learn more about Next.js, take a look at the following resources:
+### 🤝🏻 **Affiliate Marketing Systems**
+- Comprehensive affiliate marketing support for both individual groups and our entire app.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 💥 **Custom Domain Hosting**
+- White-label your groups with custom domain hosting using name servers.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### 🏝️ **Flexible Pricing Model**
+- New pricing model: Start with one group for just $99/month.
 
-## Deploy on Vercel
+### 🎁 **Free and Paid Groups**
+- Create and manage both free and premium groups effortlessly.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🎥 **Course Module Hosting**
+- Create, host, and manage course modules with $0 video hosting costs.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 📃 **Custom About Pages**
+- Tailor each group's identity with fully customizable about pages.
+
+### ✍🏻 **Notion-like Text Editor**
+- A powerful node-based text editor for creating rich, interactive content.
+
+### 📱 **Social Features**
+- Create posts, like, and comment – all within an engaging and intuitive interface.
+
+### 🎨 **Beautiful Custom UI**
+- Enjoy a stunning and improved user interface that enhances every interaction.
+
+### ⚙️ **Production-Ready Setup**
+- Complete with Husky, linters, and other essential tools for a seamless development experience.
+
+### 📅 **Group Calendars and Events**
+- Organize and manage group events with an integrated calendar system.
+
+### 💬 **Real-Time Chat**
+- Engage your community with real-time chat (if we have time to implement this).
+
+### 📄 **Stunning Landing Page**
+- Make a lasting first impression with a beautiful, custom landing page.
+
+### 🗺️ **Explore Page**
+- Discover and join groups effortlessly with our comprehensive explore page.
+
+### 🔍 **Performant Search**
+- Quickly find what you’re looking for with our optimized search features.
+
+### 🛝 **Infinite Carousels**
+- Experience smooth and endless scrolling with our custom infinite carousels.
+
+### 🔢 **Pagination with Infinite Scroll**
+- Navigate through content seamlessly with infinite scroll pagination.
+
+### 📊 **Group Metrics Dashboard**
+- Monitor and analyze group performance with a detailed metrics dashboard.
+
+### 🟣 **And So Much More...**
+- We’re constantly adding new features to enhance your experience. Stay tuned!
