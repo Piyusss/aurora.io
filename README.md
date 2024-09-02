@@ -73,4 +73,4 @@ Welcome to **Aurora.io**, your one-stop solution for building and managing power
 - Monitor and analyze group performance with a detailed metrics dashboard.
 
 ### 🟣 **And So Much More...**
-- We’re constantly adding new features to enhance your experience. Stay tuned!
+- I'm constantly adding new features to enhance your experience. Stay tuned!
