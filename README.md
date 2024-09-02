@@ -1,3 +1,4 @@
+![your-name-anime-kimi-no-na-wa](https://github.com/user-attachments/assets/1b106507-d4a0-4075-8bdd-6895ff18042b)
 
 # 🌟 **Aurora.io** 🌟
 
