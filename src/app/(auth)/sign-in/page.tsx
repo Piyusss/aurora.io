@@ -8,8 +8,8 @@ const SignInPage = () => {
     <>
       <h5 className="font-bold text-base text-themeTextWhite">Login</h5>
       <p className="text-themeTextGray leading-tight">
-        Network with people from around the world, join groups, create your own,
-        watch courses and become the best version of yourself.
+        Connect with people globally, join or create groups, access courses, and
+        unlock your full potential.
       </p>
       <SignInForm />
       <div className="my-10 w-full relative">

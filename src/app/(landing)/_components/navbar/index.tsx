@@ -10,7 +10,7 @@ type Props = {}
 const LandingPageNavbar = (props: Props) => {
   return (
     <div className="w-full flex justify-between sticky top-0 items-center py-5 z-50">
-      <p className="font-bold text-2xl">Grouple.</p>
+      <p className="font-bold text-2xl">Aurora.io</p>
       <Menu orientation="desktop" />
       <div className="flex gap-2">
         <Link href="/sign-in">
@@ -19,7 +19,7 @@ const LandingPageNavbar = (props: Props) => {
             className="bg-themeBlack rounded-2xl flex gap-2 border-themeGray hover:bg-themeGray"
           >
             <Logout />
-            Login
+            Sign-in
           </Button>
         </Link>
         <GlassSheet

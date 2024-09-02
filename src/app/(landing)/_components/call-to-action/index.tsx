@@ -12,22 +12,19 @@ const CallToAction = (props: Props) => {
         className="text-[35px] md:text-[40px] lg:text-[55px] xl:text-[70px] 2xl:text-[80px] leading-tight font-semibold"
         element="H1"
       >
-        Bringing Communities <br className="md:hidden" /> Together
+        Creating a Collective <br className="md:hidden" /> Bond
       </GradientText>
       <p className="text-sm md:text-center text-left text-muted-foreground">
-        Grouple is a vibrant online community platform that empowers
-        <br className="md:hidden" />
-        people to connect, <br className="hidden md:block" /> collaborate, and
-        cultivate meaningful
-        <br className="md:hidden" />
-        relationships
+        Aurora is an engaging digital space designed to bring people
+        together, <br className="hidden md:block" /> fostering connections,
+        collaboration, and the growth of strong relationships.
       </p>
       <div className="flex md:flex-row flex-col md:justify-center gap-5 md:mt-5 w-full">
         <Button
           variant="outline"
           className="rounded-xl bg-transparent text-base"
         >
-          Watch Demo
+          Visualize Demo
         </Button>
         <Link href="/sign-in">
           <Button className="rounded-xl text-base flex gap-2 w-full">

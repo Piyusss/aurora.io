@@ -15,26 +15,27 @@ export const PricingSection = (props: Props) => {
           className="text-4xl font-semibold text-center"
           element="H2"
         >
-          Pricing Plans That Fit Your Right
+          Premium Plans Just for You
         </GradientText>
         <p className="text-sm md:text-center text-left text-muted-foreground">
-          Grouple is a vibrant online community platform that empowers people to
+          Aurora.io is a dynamic community platform that enables individuals to
           connect, <br className="hidden md:block" />
-          collaborate, and cultivate meaningful relationships
+          collaborate, and build lasting relationships.
         </p>
       </BackdropGradient>
+
       <Card className="p-7 mt-10 md:w-auto w-full bg-themeBlack border-themeGray">
         <div className="flex flex-col gap-2">
-          <CardTitle>99/m</CardTitle>
+          <CardTitle>$79/month</CardTitle>
           <CardDescription className="text-[#B4B0AE]">
-            Great if you’re just getting started
+            Great for starting your journey
           </CardDescription>
           <Link href="#" className="w-full mt-3">
             <Button
               variant="default"
               className="bg-[#333337] w-full rounded-2xl text-white hover:text-[#333337]"
             >
-              Start for free
+              Go Free
             </Button>
           </Link>
         </div>
@@ -42,26 +43,108 @@ export const PricingSection = (props: Props) => {
           <p>Features</p>
           <span className="flex gap-2 mt-3 items-center">
             <Check />
-            Feature number 1
+            Node based text editor like notion
           </span>
           <span className="flex gap-2 items-center">
             <Check />
-            Feature number 1
+            Create custom likes and comments on posts
           </span>
           <span className="flex gap-2 items-center">
             <Check />
-            Feature number 1
+            Pagination with infinite scroll
           </span>
           <span className="flex gap-2 items-center">
             <Check />
-            Feature number 1
+            Dashboard to see group metrics
           </span>
           <span className="flex gap-2 items-center">
             <Check />
-            Feature number 1
+            Custom onboarding to increase conversions
           </span>
         </div>
       </Card>
+
+      <Card className="p-7 mt-10 md:w-auto w-full bg-themeBlack border-themeGray">
+        <div className="flex flex-col gap-2">
+          <CardTitle>$149/month</CardTitle>
+          <CardDescription className="text-[#B4B0AE]">
+            Excellent for Professionals
+          </CardDescription>
+          <Link href="#" className="w-full mt-3">
+            <Button
+              variant="default"
+              className="bg-[#333337] w-full rounded-2xl text-white hover:text-[#333337]"
+            >
+              Go Cart
+            </Button>
+          </Link>
+        </div>
+        <div className="flex flex-col gap-2 text-[#B4B0AE] mt-5">
+          <p>Features</p>
+          <span className="flex gap-2 mt-3 items-center">
+            <Check />
+            Node based text editor like notion
+          </span>
+          <span className="flex gap-2 items-center">
+            <Check />
+            Create custom likes and comments on posts
+          </span>
+          <span className="flex gap-2 items-center">
+            <Check />
+            Pagination with infinite scroll
+          </span>
+          <span className="flex gap-2 items-center">
+            <Check />
+            Dashboard to see group metrics
+          </span>
+          <span className="flex gap-2 items-center">
+            <Check />
+            Custom onboarding to increase conversions
+          </span>
+        </div>
+      </Card>
+
+      <Card className="p-7 mt-10 md:w-auto w-full bg-themeBlack border-themeGray">
+        <div className="flex flex-col gap-2">
+          <CardTitle>$209/month</CardTitle>
+          <CardDescription className="text-[#B4B0AE]">
+            Outstanding for Business and Startups
+          </CardDescription>
+          <Link href="#" className="w-full mt-3">
+            <Button
+              variant="default"
+              className="bg-[#333337] w-full rounded-2xl text-white hover:text-[#333337]"
+            >
+              Go Cart
+            </Button>
+          </Link>
+        </div>
+        <div className="flex flex-col gap-2 text-[#B4B0AE] mt-5">
+          <p>Features</p>
+          <span className="flex gap-2 mt-3 items-center">
+            <Check />
+            Node based text editor like notion
+          </span>
+          <span className="flex gap-2 items-center">
+            <Check />
+            Create custom likes and comments on posts
+          </span>
+          <span className="flex gap-2 items-center">
+            <Check />
+            Pagination with infinite scroll
+          </span>
+          <span className="flex gap-2 items-center">
+            <Check />
+            Dashboard to see group metrics
+          </span>
+          <span className="flex gap-2 items-center">
+            <Check />
+            Custom onboarding to increase conversions
+          </span>
+        </div>
+      </Card>
+
+
     </div>
   )
 }
